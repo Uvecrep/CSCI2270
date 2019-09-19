@@ -1,2 +1,3 @@
-# CSCI2270
-All coursework for CSCI2270 - Data Structures in Fall 2018
+# CU Boulder Computer Science Coursework
+
+A git repo for hosting my computer science work so that I have it backed up in a safe place for reference.
